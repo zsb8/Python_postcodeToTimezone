@@ -5,8 +5,10 @@ Find the time zone through Post Code.
 This test in Ubuntu, you need to get personal token from Github first because it forbit you use really password when you down load.
 ### How to set your personal token of Github?
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token    
-If you got your personal token, you can clone or get code from Github on Linux because Linux will ask you input your personal token during the install process.
+If you have personal token, you can clone or download code from Github on Linux because Linux will ask you input your personal token during the install process.
+So you should get a personal token before you install package on Linux. If you have github personal token already, you can pass this step that creathing personal token on Github. 
 
+If you have you personal token, you can type this command on Linux.     
 ~~~
 python3 -m pip install git+https://github.com/zsb8/postcode_timezone.git@main
 ~~~
