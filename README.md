@@ -21,3 +21,9 @@ python setup.py sdist
 
 Then you will find a new version package in the `/dist/`
 ![image](https://user-images.githubusercontent.com/75282285/165078607-5a4377e1-5461-4e35-91b3-090f82b7759e.png)
+
+# How to run this code
+~~~
+from pctz import timezone
+timezone.get_time_zone("H9H 5J1")
+~~~
