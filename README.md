@@ -16,7 +16,7 @@ You can download code to local disk from Github and build a package on your loca
 ~~~
 python setup.py sdist
 ~~~
-![image](https://user-images.githubusercontent.com/75282285/165078786-06dd2348-bb1a-42c1-9f07-d4c23ecab420.png)
+![image](https://user-images.githubusercontent.com/75282285/179817348-3ff6ba22-55b1-496a-ab2c-47b7f6e64cc1.png)
 ![image](https://user-images.githubusercontent.com/75282285/165078866-5b21eac0-4628-4ad4-92d9-26bca1425146.png)
 
 Then you will find a new version package in the `/dist/`
