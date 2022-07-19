@@ -4,9 +4,9 @@ Find the time zone through Post Code
 ## (1). One way: use GIT to download and install package.
 This test in Ubuntu, you need to get personal token from Github first because it forbit you use really password when you down load.
 ~~~
-python3 -m pip install git+https://github.com/waybase-data-analytics/data-tools.git@first_refactor
+python3 -m pip install git+https://github.com/zsb8/postcode_timezone.git@main
 ~~~
-![image](https://user-images.githubusercontent.com/75282285/153072035-794da8a0-1e52-470a-81cd-d3b417edd652.png)
+![image](https://user-images.githubusercontent.com/75282285/179816321-c6aa744a-f09a-470b-9f43-0b7606f24905.png)
 Then you can use it in Python environment because you install it already. 
 
 ## (2). The other way: run setup.py to build a package
