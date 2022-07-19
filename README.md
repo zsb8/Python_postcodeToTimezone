@@ -1,5 +1,5 @@
 # postcode_timezone
-Find the time zone through Post Code
+Find the time zone through Post Code.
 # 1. How to install this private package through original code from Github?
 ## (1). One way: use GIT to download and install package.
 This test in Ubuntu, you need to get personal token from Github first because it forbit you use really password when you down load.
