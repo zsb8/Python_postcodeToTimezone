@@ -30,6 +30,7 @@ Then you can pip install it as others.
 
 
 # 2. How to run this package?
+If you installed the package, you can run it, such as:   
 ~~~
 from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
