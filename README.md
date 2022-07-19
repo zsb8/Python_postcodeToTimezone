@@ -31,8 +31,8 @@ Then you can pip install it as others.
 ![image](https://user-images.githubusercontent.com/75282285/179817725-b80d2fe5-c01e-46bb-94fe-600d921150f5.png)
 
 
-# 2. How to run this package?
-If you installed the package, you can run it, such as:   
+# 2. How to run this pyhton personal package?
+If you install the package already, you can run it, such as:   
 ~~~
 from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
