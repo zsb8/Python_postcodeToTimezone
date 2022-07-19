@@ -1,6 +1,6 @@
 # postcode_timezone
 Find the time zone through Post Code
-# How to install this private package through original code from Github?
+# 1. How to install this private package through original code from Github?
 ## (1). One way: use GIT to download and install package.
 This test in Ubuntu, you need to get personal token from Github first because it forbit you use really password when you down load.
 ### How to set your personal token of Github?
@@ -29,8 +29,12 @@ Then you can pip install it as others.
 ![image](https://user-images.githubusercontent.com/75282285/179817725-b80d2fe5-c01e-46bb-94fe-600d921150f5.png)
 
 
-# How to run this code
+# 2. How to run this code
 ~~~
 from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
 ~~~
+You will get the result such as below:
+![image](https://user-images.githubusercontent.com/75282285/179818550-9313c5f4-091a-480d-a742-cf9ac5854f48.png)
+
+
