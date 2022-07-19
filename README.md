@@ -4,7 +4,7 @@ Find the time zone through Post Code
 ## (1). One way: use GIT to download and install package.
 This test in Ubuntu, you need to get personal token from Github first because it forbit you use really password when you down load.
 ### How to set your personal token of Github?
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token    
 If you got your personal token, you can clone or get code from Github on Linux because Linux will ask you input your personal token during the install process.
 
 ~~~
