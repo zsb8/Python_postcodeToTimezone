@@ -17,10 +17,13 @@ You can download code to local disk from Github and build a package on your loca
 python setup.py sdist
 ~~~
 ![image](https://user-images.githubusercontent.com/75282285/179817348-3ff6ba22-55b1-496a-ab2c-47b7f6e64cc1.png)
-![image](https://user-images.githubusercontent.com/75282285/165078866-5b21eac0-4628-4ad4-92d9-26bca1425146.png)
 
 Then you will find a new version package in the `/dist/`
-![image](https://user-images.githubusercontent.com/75282285/165078607-5a4377e1-5461-4e35-91b3-090f82b7759e.png)
+![image](https://user-images.githubusercontent.com/75282285/179817480-8e2821aa-3862-41e0-b75f-e31ba663ff4a.png)
+
+Then you can pip install it as others.
+![image](https://user-images.githubusercontent.com/75282285/179817725-b80d2fe5-c01e-46bb-94fe-600d921150f5.png)
+
 
 # How to run this code
 ~~~
