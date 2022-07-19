@@ -8,6 +8,8 @@ python3 -m pip install git+https://github.com/zsb8/postcode_timezone.git@main
 ~~~
 ![image](https://user-images.githubusercontent.com/75282285/179816321-c6aa744a-f09a-470b-9f43-0b7606f24905.png)
 Then you can use it in Python environment because you install it already. 
+![image](https://user-images.githubusercontent.com/75282285/179816896-94b04441-3c86-473c-af37-75e65f5105d4.png)
+
 
 ## (2). The other way: run setup.py to build a package
 You can download code to local disk from Github and build a package on your local disk.
