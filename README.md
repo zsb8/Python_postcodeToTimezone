@@ -29,7 +29,7 @@ Then you can pip install it as others.
 ![image](https://user-images.githubusercontent.com/75282285/179817725-b80d2fe5-c01e-46bb-94fe-600d921150f5.png)
 
 
-# 2. How to run this code
+# 2. How to run this package?
 ~~~
 from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
