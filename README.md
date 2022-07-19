@@ -33,7 +33,7 @@ Then you can pip install it as others.
 
 # 2. How to run this pyhton personal package?
 If you install the package already, you can run it, such as:      
-Input is a Post Code, output will be a Json result.
+Input is a Post Code, output will be a JSON result.
 ~~~
 from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
