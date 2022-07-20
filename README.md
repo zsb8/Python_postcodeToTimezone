@@ -30,6 +30,12 @@ Then you will find a new version package in the `/dist/`
 Then you can pip install it as others.
 ![image](https://user-images.githubusercontent.com/75282285/179817725-b80d2fe5-c01e-46bb-94fe-600d921150f5.png)
 
+## (3). pip install directly
+You can download the .tar.gz from this repository /dist/*.tar.gz, then you can pip install it on your local.
+Such as
+~~~
+pip install postcode_timezone-1.3.tar.gz
+~~~
 
 # 2. How to run this pyhton personal package?
 If you install the package already, you can run it, such as:      
