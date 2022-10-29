@@ -45,7 +45,7 @@ from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
 ~~~
 You will get the result such as below:
-~~~jason
+~~~json
 {"Result": "Success", "Time_zone": -4, "Daylight saving time": "Yes", "Region": "Montreal Metropolitan", "Remark": "This time_zone means the hours before UTC time. If on the second Sunday of March or on the first Sunday in November, diff DST effect today in diff time zone"}
 ~~~
 If the "Daylight saving time" is Yes, it means the Time_zone is Daylight saving time zone.    
