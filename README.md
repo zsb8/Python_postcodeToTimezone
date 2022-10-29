@@ -40,12 +40,12 @@ pip install postcode_timezone-1.3.tar.gz
 # 2. How to run this pyhton personal package?
 If you install the package already, you can run it, such as:      
 Input is a Post Code, output will be a JSON result.
-~~~
+~~~python
 from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
-~~~python
-You will get the result such as below:
 ~~~
+You will get the result such as below:
+~~~jason
 '{"Result": "Success", "Time_zone": -4, "Daylight saving time": "Yes", "Region": "Montreal Metropolitan", "Remark": "This time_zone means the hours before UTC time. If on the second Sunday of March or on the first Sunday in November, diff DST effect today in diff time zone"}'
 ~~~
 If the "Daylight saving time" is Yes, it means the Time_zone is Daylight saving time zone.    
