@@ -43,7 +43,7 @@ Input is a Post Code, output will be a JSON result.
 ~~~
 from pctz import timezone
 timezone.get_time_zone("H9H 5J1")
-~~~
+~~~python
 You will get the result such as below:
 ~~~
 '{"Result": "Success", "Time_zone": -4, "Daylight saving time": "Yes", "Region": "Montreal Metropolitan", "Remark": "This time_zone means the hours before UTC time. If on the second Sunday of March or on the first Sunday in November, diff DST effect today in diff time zone"}'
