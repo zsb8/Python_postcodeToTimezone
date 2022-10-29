@@ -46,7 +46,7 @@ timezone.get_time_zone("H9H 5J1")
 ~~~
 You will get the result such as below:
 ~~~jason
-'{"Result": "Success", "Time_zone": -4, "Daylight saving time": "Yes", "Region": "Montreal Metropolitan", "Remark": "This time_zone means the hours before UTC time. If on the second Sunday of March or on the first Sunday in November, diff DST effect today in diff time zone"}'
+{"Result": "Success", "Time_zone": -4, "Daylight saving time": "Yes", "Region": "Montreal Metropolitan", "Remark": "This time_zone means the hours before UTC time. If on the second Sunday of March or on the first Sunday in November, diff DST effect today in diff time zone"}
 ~~~
 If the "Daylight saving time" is Yes, it means the Time_zone is Daylight saving time zone.    
 Such as above result, the "H9H 5J1" has dst, so the loca time of "H9H 5J1" will be UTC time minus 4 hours. If UTC is '2022-07-25 <b>08</b>:27:52.000000', the loca time of "H9H 5J1" will be '2022-07-25 <b>04</b>:27:52.000000'. But UTC is '2022-12-25 <b>08</b>:27:52.000000', the loca time of "H9H 5J1" will be '2022-12-25 <b>03</b>:27:52.000000' because not in daylight savting time. 
