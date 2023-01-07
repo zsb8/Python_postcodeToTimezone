@@ -1,3 +1,5 @@
+**To reassure you, these codes are just similar to the projects I have done before, not the same one. I just want to show my experience and easy to summarize, it do not contain any Privacy and Confidential Information.**
+
 # postcode_timezone
 Find the time zone through Post Code.
 # 1. How to install this private package through original code from Github?
