@@ -1,7 +1,9 @@
 **These codes are similar to the projects I have worked on before, but they are not the same. I am simply using them to demonstrate my experience. Furthermore, I have ensured that the code does not contain any privacy or confidential information.**
 
 # postcode_timezone
-Find the time zone through Post Code.
+Find the time zone through Post Code.    
+I created this function as part of one of my projects. It is designed to find the time zone associated with a Canadian postal code and is both useful and easy to use. I packaged it as a Python private package, which can be installed using pip, making it simple to incorporate into your own projects.
+
 # 1. How to install this private package through original code from Github?
 ## (1). One way: use GIT to download and install package from Github.
 This test in Ubuntu, you need to get personal token from Github first because it forbit you use really password when you down load.
