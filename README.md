@@ -1,5 +1,7 @@
 **These codes are similar to the projects I have worked on before, but they are not the same. I am simply using them to demonstrate my experience. Furthermore, I have ensured that the code does not contain any privacy or confidential information.**
 
+![carte-fuseaux-horaires](https://user-images.githubusercontent.com/75282285/222922651-023651b2-f31f-4aa7-9b80-74c82e4dba1a.jpg)
+
 # postcode_timezone
 Find the time zone through Post Code.    
 I created this function as part of one of my projects. It is designed to find the time zone associated with a Canadian postal code and is both useful and easy to use. I packaged it as a Python private package, which can be installed using pip, making it simple to incorporate into your own projects.
