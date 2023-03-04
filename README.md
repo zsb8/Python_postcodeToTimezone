@@ -1,4 +1,4 @@
-**To reassure you, these codes are just similar to the projects I have done before, not the same one. I just want to show my experience and easy to summarize, it do not contain any Privacy and Confidential Information.**
+**These codes are similar to the projects I have worked on before, but they are not the same. I am simply using them to demonstrate my experience. Furthermore, I have ensured that the code does not contain any privacy or confidential information.**
 
 # postcode_timezone
 Find the time zone through Post Code.
